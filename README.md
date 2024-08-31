@@ -1,4 +1,7 @@
-# myapp
+# ROLL THE DICE
+
+![ROLL DICE](https://github.com/user-attachments/assets/609ecf4a-90d3-4f79-b257-f777a0e1896f)
+
 
 A new Flutter project.
 
